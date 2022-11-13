@@ -3,6 +3,7 @@
 ## well, im supposed to be developer
 - 🌱 Currently learning at Gadjah Mada University as Information Engineering student
 - 👩‍💻 Interested in software (read: web) and game development
+- 🎨 Interested in digital arts as well
 - 📫 How to reach me: get in touch with me at @saddansyah
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I hate all kind of mushy foods

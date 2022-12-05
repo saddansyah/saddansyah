@@ -6,5 +6,5 @@
 - 🎨 Interested in digital arts as well
 - 📫 How to reach me: get in touch with me at @saddansyah
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can't whistle (nvm isnt necessary at all :D)
+- ⚡ Fun fact: I can't do whistle (nvm isnt necessary at all :D)
 

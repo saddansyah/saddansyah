@@ -4,7 +4,6 @@
 - 🎓 Information Engineering student at Gadjah Mada University
 - 👩‍💻 Interested in software engineering (read: web) and game development
 - 🎨 Interested in digital arts as well
-- 📫 How to reach me: get in touch with me at @saddansyah
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can't do whistle (nvm isnt necessary at all :D)
+
+Wanna know more about me? Hit me up in [LinkedIn](https://www.linkedin.com/in/saddan-syah-a-a914011b8/) and [Instagram](https://www.instagram.com/saddansyah/)!
 

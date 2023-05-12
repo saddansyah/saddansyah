@@ -1,5 +1,5 @@
 # Assalamualaikum 👋
-![github](https://user-images.githubusercontent.com/73093118/121893750-8b19df00-cd48-11eb-8d66-4bae6d09bf5b.gif)
+![ezgif-2-7c6f8f1ffc](https://github.com/saddansyah/saddansyah/assets/73093118/41888f5c-01f9-4bca-8658-3b30aa406521)
 ## well, im supposed to be developer
 - 🎓 Information Engineering student at Gadjah Mada University
 - 👩‍💻 Interested in software engineering (read: web) and game development

@@ -10,6 +10,11 @@ With great honour. With deepest reverance, let it be known that I, <b>Saddan Sya
 ## What are my interest(s) in?
 - 👩‍💻 Quite interested in software engineering (most likely: web), game development, and a bit of devsecops.
 - 🎨 Do some digital arts as well
+## 2024 resolutions?
+- 🎮 (Fullstack) **game development** (pray for my undergraduate thesis 🙏)
+- ...then proceed to learn **computer graphics** as well 😅
+- ⚙️ More **DevSecOps** thingy
+- ⛰️ Dive deep down [**Nuxt**](https://nuxt.com/)
 
 ---
 👋 Wanna know more about me? Hit me up in [LinkedIn](https://linkedin.com/in/saddan-syah-a-a914011b8/) and [Instagram](https://instagram.com/saddansyah/)! <br/>

@@ -14,7 +14,7 @@ With great honour. With deepest reverance, let it be known that I, <b>Saddan Sya
 - 🎮 (Fullstack) **game development** (pray for my undergraduate thesis 🙏)
 - ...then proceed to learn **computer graphics** as well 😅
 - ⚙️ More **DevSecOps** thingy
-- 🏊‍♂️ Dive deep down [**Nuxt**](https://nuxt.com/) and [**Go**](https://go.dev/)
+- 🏊‍♂️ Dive deep down [**Unity**](https://unity.com/), [**Nuxt**](https://nuxt.com/), and [**Go**](https://go.dev/)
 
 ---
 👋 Wanna know more about me? Hit me up in [LinkedIn](https://linkedin.com/in/saddan-syah-a-a914011b8/) and [Instagram](https://instagram.com/saddansyah/)! <br/>

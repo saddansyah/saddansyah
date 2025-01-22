@@ -8,15 +8,12 @@ With great honour. With deepest reverance, let it be known that I, <b>Saddan Sya
 </p></br>
 
 ## What are my interest(s) in?
-- 👩‍💻 Quite interested in software engineering (most likely: web), game development, and a bit of devsecops.
+- 👩‍💻 Quite interested in software engineering and game development
 - 🎨 Do some digital arts as well
-## 2024 resolutions?
-- 🎮 (Fullstack) **game development** (pray for my undergraduate thesis 🙏)
-- ...then proceed to learn **computer graphics** as well 😅
-- ⚙️ More **DevSecOps** thingy
-- 🏊‍♂️ Dive deep down [**Unity**](https://unity.com/), [**Nuxt**](https://nuxt.com/), and [**Go**](https://go.dev/)
+## 2025 resolutions?
+- ⚙️ Fullstack but backend-focused things
 
 ---
 👋 Wanna know more about me? Hit me up in [LinkedIn](https://linkedin.com/in/saddan-syah-a-a914011b8/) and [Instagram](https://instagram.com/saddansyah/)! <br/>
-🌌 Also up in [saddansyah.space](https://saddansyah.space) !
+🌌 Also up in [saddansyah.my.id](https://saddansyah.my.id) !
 

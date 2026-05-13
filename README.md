@@ -10,8 +10,8 @@ With great honour. With deepest reverance, let it be known that I, <b>Saddan Sya
 ## What are my interest(s) in?
 - 👩‍💻 Quite interested in software engineering and game development
 - 🎨 Do some digital arts as well
-## 2025 resolutions?
-- ⚙️ Fullstack but backend-focused things
+## 2026 resolutions?
+- 👀 SRE and DevOps quite interesting
 
 ---
 👋 Wanna know more about me? Hit me up in [LinkedIn](https://linkedin.com/in/saddan-syah-a-a914011b8/) and [Instagram](https://instagram.com/saddansyah/)! <br/>
